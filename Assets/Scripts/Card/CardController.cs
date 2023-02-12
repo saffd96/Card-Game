@@ -28,7 +28,7 @@ namespace Card
         [SerializeField] private GameObject cardBack;
         [SerializeField] private GameObject cardFront;
         [SerializeField] private GameObject cardGlow;
-        
+
         private CardData cardData;
         private CardView cardView;
 

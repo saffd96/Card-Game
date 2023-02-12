@@ -1,5 +1,4 @@
-﻿using System;
-using Card;
+﻿using Card;
 using UnityEngine;
 using Zenject;
 using Zenject.Signals;
